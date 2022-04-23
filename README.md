@@ -1,2 +1,2 @@
 # impermax_docs
-Documentation and FAQs for Impermax
+Unofficial documentation and FAQs for Impermax
